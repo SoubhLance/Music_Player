@@ -1,5 +1,6 @@
-#Modern Music Player 🎵
+## Modern Music Player 🎵
 A sleek, Spotify-inspired music player built with Python and Tkinter. This application provides a modern, user-friendly interface for playing and managing your music collection.
+
 ![image](https://github.com/user-attachments/assets/aec335f4-ae60-4083-924f-204b496c7e49)
 
 ✨ Features
